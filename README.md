@@ -103,9 +103,9 @@ rainy, 75.0, 80.0, false, yes
 
 ## OUTPUT:
 ### EMPLOYEE DATA:
-![EXP 1D REMOVE](![1](https://github.com/user-attachments/assets/69e4f76c-559e-4895-83ee-1265655e4bd2))
+![EXP 1D REMOVE](https://github.com/Mounesh07/WDM_EXP1/assets/118343401/66eeec6a-de31-496b-89b7-0b3c22d4f183)
 ### WEATHER DATA:
-![EXP 1C REMOVE](![2](https://github.com/user-attachments/assets/4bac27dd-9999-44d3-b254-fbfab3eec3f9))
+![EXP 1C REMOVE](https://github.com/Mounesh07/WDM_EXP1/assets/118343401/66194e59-ba4e-42d6-b838-4a787b16cf55)
 
 ### 3) NORMALIZE -> Pre-Processing Technique:
 
